@@ -1,5 +1,7 @@
 # New-Voice
 
+Hi Masum
+
 New Voice assistant is a python-based voice assistant that can interact with user through speech playing music randomly. telling jokes and having small talk.
 
 This project uses speech recognition and text-to-speech (TTS) to provide a hands-free assistant experience similar to Iron Man's.
